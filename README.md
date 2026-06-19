@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akhilbeereli](https://github.com/akhilbeereli)
 
-- 📝 I regularly write articles on [Coming soon!](Coming soon!)
-
 - 💬 Ask me about **Terraform, Ansible, Jenkins, EKS, Monitoring (Grafana/Prometheus), Secure CI/CD**
 
 - 📫 How to reach me **akhilb1996.ac@gmail.com**
